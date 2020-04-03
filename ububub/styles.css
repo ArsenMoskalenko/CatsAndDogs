@@ -1,0 +1,35 @@
+*{
+  padding: 10px;
+}
+
+body{
+    background-color: aqua;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    min-height: 1000px;
+}
+
+h1{
+    height: 30px;
+}
+
+.goBack{
+    width: 50px;
+}
+
+.imgWrap{
+    display: flex;
+    justify-content: center;
+}
+
+.imgg{
+    width: 35%;
+    height: 35%;
+    /* min-height: 300px;
+    min-width: 300px;
+    max-width: 500px;
+    max-height: 500px; */
+}
